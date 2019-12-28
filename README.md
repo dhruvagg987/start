@@ -2,4 +2,5 @@
 my first repository
 hello world
 i am dhruv aggarwal.
-this is master
+this is merged .
+this is new master.
